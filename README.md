@@ -31,6 +31,7 @@ MySQL is one of the best RDBMS (Relational Database Management System) applicati
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; FastDFS is an open source and lightweight distributed file system. It manages files. Its functions include: file storage, file synchronization, file access (file upload, file download), etc., which solves the problem of mass storage and load balancing. Especially suitable for online services that use files as the carrier, such as photo album websites, video websites, and so on.
 
 # ·[Nginx](http://nginx.org/en/download.html)
+![](https://github.com/superzhaoyang/img_storage/blob/master/clouddisk/nginx.jpg)
 
 ​        Nginx (engine x) is a high-performance HTTP and reverse proxy web server, and also provides IMAP/POP3/SMTP services.
 
