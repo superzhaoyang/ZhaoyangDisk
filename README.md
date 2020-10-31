@@ -33,7 +33,7 @@ MySQL is one of the best RDBMS (Relational Database Management System) applicati
 # ·[Nginx](http://nginx.org/en/download.html)
 ![](https://github.com/superzhaoyang/img_storage/blob/master/clouddisk/nginx.jpg)
 
-​        Nginx (engine x) is a high-performance HTTP and reverse proxy web server, and also provides IMAP/POP3/SMTP services.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nginx (engine x) is a high-performance HTTP and reverse proxy web server, and also provides IMAP/POP3/SMTP services.
 
 #  Project overall structure
 
